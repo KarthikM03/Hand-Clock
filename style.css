@@ -1,0 +1,66 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    
+}
+.con{
+  /* border: 2px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    /* height: 80vh;
+    width: 80vw; */
+}
+.circle{
+    background-position: center;
+    position: relative;
+    /* filter: blur(7px); */
+  }
+  .hr{
+    transform-origin: bottom; 
+    /* Transform-origin is set the transistion point to the selected object */
+    position: absolute;
+    width: 1.8%;
+    height: 15%;
+    top: 34%;
+    left: 49.8%;
+    opacity: 0.8;
+    background: black;
+    border-radius:3px
+  }
+  .min{
+    transform-origin: bottom; 
+    /* Transform-origin is set the transistion point to the selected object */
+    position: absolute;
+    width: 1.8%;
+    height: 20%;
+    top: 28.3%;
+    left: 49.5%;
+    opacity: 0.8;
+    background: black;
+    border-radius:3px
+  }
+  .sec{
+    transform-origin: bottom; 
+    /* Transform-origin is set the transistion point to the selected object */
+    position: absolute;
+    width: 1.8%;
+    height: 25%;
+    top: 23.5%;
+    left: 49.8%;
+    opacity: 0.8;
+    background: black;
+    border-radius:3px
+  }
+  .ci{
+    height: 20px;
+    width: 50px;
+    /* border: 2px solid; */
+    position: absolute;
+  /* padding: 50px; */
+  margin: 50px auto;
+    font-weight: bold;
+    font-size:100px;
+  }
