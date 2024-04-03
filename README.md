@@ -1,6 +1,5 @@
 # Hand-Clock
- 
-<<<<<<< HEAD
-## Screenshots
+[Preview](https://karthikm03.github.io/Hand-Clock/)
 
-![video](./clock.png)
+## Screenshot
+![image](./demo.png)
